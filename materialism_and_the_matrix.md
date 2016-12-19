@@ -38,7 +38,7 @@ Any argument that about a realm that we cannot understand or cannot explain fall
 
 I do not believe that is the universe we live in.
 
-I don't want to spend too much time on a topic that has been well explored by a ton of brilliant authors (i.e. [5] [6], [7], [8]) and one or two other philosophers, etc. ([9]) but I would sum up our present understanding of the structure of the metaverse as follows: 
+I don't want to spend too much time on a topic that has been well explored by a ton of brilliant authors (i.e. [5] [6], [7], [8]) and one or two other philosophers (yes, sarcasm) ... ([9]) but I would sum up our present understanding of the structure of the metaverse as follows: 
 
 * To define a realm of reality outside of and 'above' nature, a realm that supposedly cannot be comprehended, represented, or simulated via the mechanisms we have available to us here in the natural realm, and that yet somehow dictates, controls, or has any causal connection to it, is logically ridiculous (I'd say Hume [10] and Popper [11] are two good examples of the many authors who construct the basis for this argument, Popper is especially brilliant in almost every aspect of his thinking).
 
